@@ -1,2 +1,2 @@
-a = "test"
+a = "test2"
 print(f"{a}")
